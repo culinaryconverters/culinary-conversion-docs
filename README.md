@@ -77,6 +77,8 @@ The core application logic and branding are copyright of [Culinary Converters](h
 ## 📚 Read the Story
 - **The Tech Stack:** [How I built this with Next.js 14 (Dev.to)](https://dev.to/trinc4/how-i-built-a-global-saas-with-nextjs-14-and-achieved-a-100-lighthouse-score-2nm6)
 - **The Science:** [Why "Cups" are broken & Density matters (Medium)](https://medium.com/@culinaryconverter/why-your-1-cup-of-flour-is-ruining-your-cake-the-science-of-density-303d09f80f9d)
-
+  **TABNEWS:** [TabNews POST](https://www.tabnews.com.br/trinc4/engenharia-de-performance-como-atingi-100-100-no-lighthouse-gerando-500-paginas-estaticas-com-next-js-14)
+  **LINKEDIN POST:** [Linkedin POST](https://www.linkedin.com/pulse/from-local-legacy-global-saas-achieving-perfect-seo-14-converters-eysde/?trackingId=mXQqUkGZw1qfRf2YzdlS1g%3D%3D)
+  
 ---
 *Maintained by the Culinary Converters Engineering Team.*
