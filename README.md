@@ -74,5 +74,9 @@ We welcome contributions to the density dataset! If you have verified weight dat
 This documentation is open-source under the [MIT License](LICENSE). 
 The core application logic and branding are copyright of [Culinary Converters](https://www.culinaryconverters.com).
 
+## 📚 Read the Story
+- **The Tech Stack:** [How I built this with Next.js 14 (Dev.to)](https://dev.to/trinc4/how-i-built-a-global-saas-with-nextjs-14-and-achieved-a-100-lighthouse-score-2nm6)
+- **The Science:** [Why "Cups" are broken & Density matters (Medium)](https://medium.com/@culinaryconverter/why-your-1-cup-of-flour-is-ruining-your-cake-the-science-of-density-303d09f80f9d)
+
 ---
 *Maintained by the Culinary Converters Engineering Team.*
